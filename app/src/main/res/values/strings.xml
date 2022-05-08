@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Ruhabolt</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="signup">Regisztráció</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="cancel">Mégse</string>
+    <string name="email">E-mail cím</string>
+    <string name="passwordConfirm">jelszó ismét</string>
+    <string name="loginGuest">Bejelentkezés vendégként</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="male">Férfi</string>
+    <string name="female">Nő</string>
+    <string name="gender">Neme</string>
+    <string name="production_description">Termék leírás</string>
+    <string name="shopping_cart">Kosárba</string>
+    <string name="production_info">Infó a termékről</string>
+    <string name="search">Keresés</string>
+    <string name="cart">Bevásárló kocsi</string>
+    <string name="view_type">Megjelenés típus</string>
+    <string name="delete">Törlés</string>
+    <string name="welcome">Üdvözöllek a Ruhabolt nevű alkalmazásban</string>
+    <string name="logout">Kijelentkezés</string>
+
+
+    <string-array name="clothing_item_names">
+        <item>Szürke férfi póló</item>
+        <item>Fekete férfi póló</item>
+        <item>Fehér férfi póló</item>
+        <item>Barna vászon férfi nadrág</item>
+        <item>Vans cipő</item>
+        <item>Piros Nike cipő</item>
+        <item>Fehér Nike cipő</item>
+        <item>Csipkés fekete női top</item>
+        <item>Sima fekete női top</item>
+        <item>Fehér női póló</item>
+    </string-array>
+
+    <string-array name="clothing_item_info">
+        <item>Ez egy sima szürke férfi póló</item>
+        <item>Ez egy jó minőségű sima fekete férfi póló</item>
+        <item>Ez egy sima fehér férfi póló</item>
+        <item>Ez egy egyszerű, de nagyszerű barna vászon nadrág</item>
+        <item>Ez egy kiváló minőségű, kényelmes Vans cipő</item>
+        <item>Ez egy dekoratív piros Nike cipő</item>
+        <item>Ez egy kényelmesen elegáns fehér Nike cipő</item>
+        <item>Ez egy olyan top, mely hatalmas kényelmet nyújt (Elsősorban nőknek)</item>
+        <item>Ez egy pompás kinézetű egyszerű női ruhadarab</item>
+        <item>Ez egy sima, egyszerű női póló</item>
+    </string-array>
+
+    <array name="clothing_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>2</item>
+        <item>3.5</item>
+        <item>2.25</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>3.25</item>
+        <item>5</item>
+        <item>3</item>
+    </array>
+
+    <array name="clothing_item_images">
+        <item>@drawable/tshirt1</item>
+        <item>@drawable/tshirt2</item>
+        <item>@drawable/tshirt3</item>
+        <item>@drawable/brown_trousers</item>
+        <item>@drawable/black_vans_shoes</item>
+        <item>@drawable/red_nike_shoes</item>
+        <item>@drawable/white_nike_shoes</item>
+        <item>@drawable/top1</item>
+        <item>@drawable/top2</item>
+        <item>@drawable/womantshirt1</item>
+
+    </array>
+
+    <array name="clothing_item_price">
+        <item>2000 Forint</item>
+        <item>3000 Forint</item>
+        <item>1000 Forint</item>
+        <item>4200 Forint</item>
+        <item>8350 Forint</item>
+        <item>12000 Forint</item>
+        <item>13100 Forint</item>
+        <item>2100 Forint</item>
+        <item>1900 Forint</item>
+        <item>1800 Forint</item>
+    </array>
+</resources>
